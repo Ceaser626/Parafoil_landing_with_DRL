@@ -23,8 +23,8 @@ Specifically, the policy network is trained by the PPO algorithm, and the parafo
 <div align="center">
   <table style="border: none;">
     <tr>
-      <td><img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4a.png?raw=true" alt="Figure_4a" width="45%" style="display: inline-block;"/></td>
-      <td><img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4b.png?raw=true" alt="Figure_4b" width="45%" style="display: inline-block;"/></td>
+      <td><img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4a.png?raw=true" alt="Figure_4a" width="100%" style="display: inline-block;"/></td>
+      <td><img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4b.png?raw=true" alt="Figure_4b" width="100%" style="display: inline-block;"/></td>
     </tr>
   </table>
 </div>
