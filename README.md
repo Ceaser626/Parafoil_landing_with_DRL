@@ -1,6 +1,7 @@
 # Parafoil_landing_with_DRL
-Utilizing reinforcement learning (RL) to achieve the precision landing of an autonomous parafoil system. Specifically, the policy
-network is trained by the proximal policy optimization (PPO) algorithm, and the parafoil dynamics are described using the six-degree-of-freedom model.
+Utilizing reinforcement learning (RL) to achieve the precision landing of an autonomous parafoil system.
+
+Specifically, the policy network is trained by the PPO algorithm, and the parafoil dynamics are described using 6-DOF model.
 
 ## Paper
 "Precision landing of autonomous parafoil system via deep reinforcement learning", 2024 IEEE Aerospace Conference. [Link](https://ieeexplore.ieee.org/document/10521056)
