@@ -7,5 +7,5 @@ Specifically, the policy network is trained by the PPO algorithm, and the parafo
 "Precision landing of autonomous parafoil system via deep reinforcement learning", 2024 IEEE Aerospace Conference. [Link](https://ieeexplore.ieee.org/document/10521056)
 
 ## Result
-<img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/assets/55045697/6c716048-5e93-448f-9138-2cc45ad7b579" alt="Figure_4a" width="30%"/>
-<img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4b.png?raw=true" alt="Figure_4b" width="30%"/>
+<img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4a.png?raw=true" alt="Figure_4a" style="display: inline-block; width="30%"/>
+<img src="https://github.com/Ceaser626/Parafoil_landing_with_DRL/blob/main/figure/Figure_4b.png?raw=true" alt="Figure_4b" style="display: inline-block; width="30%"/>
